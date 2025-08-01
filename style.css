@@ -127,7 +127,7 @@ main h1 {
 
 div.video {
     background-color: var(--cor01);
-    padding-bottom: 56.2%;
+    padding-bottom: 58%;
     border-radius: 0px 0px 7px 7px;
 
     position: relative;
@@ -135,7 +135,6 @@ div.video {
 
 div.video iframe {
     position: absolute;
-    padding-bottom: 10px;
     top:6%;
     left:5%;
     width: 90%;
