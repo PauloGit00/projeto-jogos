@@ -182,14 +182,21 @@ div.video iframe {
     font-weight: bold;
 }
 
-.pag2 {
-    
-}
 
 .links2 {
+    padding-bottom: 40px;
+    text-align: center;
+    background-color: var(--cor11);
     font-weight: bold;
     padding: 10px;
     margin-bottom: 10px;
+}
+
+.home:hover {
+    background-image: linear-gradient(var(--cor05), var(--cor06));
+    padding: 10px;
+    border-radius: 7px;
+    transition-duration: 0.3s;
 }
 
 .links2 a {
